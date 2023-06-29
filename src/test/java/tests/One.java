@@ -24,7 +24,7 @@ public class One extends Base {
 	public void testOneGoogle() {
 		driver.get("https://www.google.com");
 		driver.manage().window().maximize();
-		System.out.println(driver.getTitle()+" by TestOneGoogle");
+		System.out.println(driver.getTitle()+" by TestOneGoogles");
 	
 	}
 	@Test
