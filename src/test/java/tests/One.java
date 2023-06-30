@@ -31,7 +31,7 @@ public class One extends Base {
 	public void testOneYoutube() {
 		driver.get("https://www.youtube.com");
 		driver.manage().window().maximize();
-		System.out.println(driver.getTitle()+" by TestOneYoutubes");
+		System.out.println(driver.getTitle()+" by TestOneYoutubesssss");
 	
 	}
 	
